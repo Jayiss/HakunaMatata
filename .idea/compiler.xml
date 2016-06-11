@@ -22,11 +22,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="HakunaMatata" />
+        <module name="CoreFrame" />
+        <module name="LocalResearch" />
+        <module name="OrangeAuction" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="CoreFrame" target="1.5" />
       <module name="HakunaMatata" target="1.5" />
+      <module name="LocalResearch" target="1.5" />
+      <module name="OrangeAuction" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

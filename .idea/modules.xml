@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CoreFrame/CoreFrame.iml" filepath="$PROJECT_DIR$/CoreFrame/CoreFrame.iml" />
       <module fileurl="file://$PROJECT_DIR$/HakunaMatata.iml" filepath="$PROJECT_DIR$/HakunaMatata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocalResearch/LocalResearch.iml" filepath="$PROJECT_DIR$/LocalResearch/LocalResearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/OrangeAuction/OrangeAuction.iml" filepath="$PROJECT_DIR$/OrangeAuction/OrangeAuction.iml" />
     </modules>
   </component>
